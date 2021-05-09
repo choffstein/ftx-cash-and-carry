@@ -1,0 +1,9 @@
+pandas==1.2.2
+pytz
+hmac
+ciso8601
+typing
+urllib
+requests
+time
+datetime
