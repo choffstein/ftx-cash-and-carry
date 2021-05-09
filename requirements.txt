@@ -1,9 +1,5 @@
 pandas==1.2.2
+streamlit==0.81.1
 pytz
-hmac
-ciso8601
-typing
-urllib
+ciso8601==2.1.3
 requests
-time
-datetime
